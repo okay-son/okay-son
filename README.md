@@ -1,10 +1,10 @@
-#<h2> hello :) </h2>
+## hello :)
 my name is sonia (@okay-son) !
 
 i'm trying to code all sorts of random things.
 > i haven't made too much progress yet though u_u
 
-#<h3> what did i do so far ... ? </h3>
+### what did i do so far ... ?
 i am working on being more consistent !
 i made :
 - a "no valorant" reminder discord bot

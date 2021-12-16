@@ -1,4 +1,4 @@
-## hello :)
+## hello, this is okay.son :)
 my name is sonia (@okay-son) !
 
 i'm trying to code all sorts of random things.

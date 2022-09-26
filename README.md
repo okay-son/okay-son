@@ -7,8 +7,10 @@ here are some of the coding work i've done.
 ## projects
 Paper Crane (iOS application)
 > https://github.com/okay-son/papercrane
+
 Mind Eraser (web application)
 > https://github.com/okay-son/minderaser
+
 CookBook (web application)
 > https://github.com/okay-son/CookBook
 

@@ -1,16 +1,15 @@
 ## hello, this is okay.son :)
 my name is sonia (@okay-son) !
 
-i'm trying to code all sorts of random things.
+here are some of the coding work i've done.
 > always making progress
 
-## what did i do so far ... ?
-i am working on being more consistent !
-i made :
-- a "no valorant" reminder discord bot
-- a korean romanization discord bot
-- a food recipe website
-- more (which i will not specify because unfinished)
+## projects
+- Paper Crane (iOS application)
+https://github.com/okay-son/papercrane
+
+
+## classwork
 
 <!---
 okay-son/okay-son is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

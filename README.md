@@ -15,6 +15,11 @@ CookBook (web application)
 > https://github.com/okay-son/CookBook
 
 ## classwork
+Stress Analyzer
+> https://github.com/SwiftwareTeam/swiftware_app
+> https://github.com/SwiftwareTeam/Swiftware-Server
+
+Design Patterns
 
 
 <!---

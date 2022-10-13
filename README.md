@@ -4,7 +4,7 @@ my name is so yeon (sonia) lee (@okay-son) !
 here are some of the coding work i've done.
 > always making progress
 
-## projects
+## Personal Projects
 Paper Crane (iOS application)
 > https://github.com/okay-son/papercrane
 
@@ -14,12 +14,16 @@ Mind Eraser (web application)
 CookBook (web application)
 > https://github.com/okay-son/CookBook
 
-## classwork
-Stress Analyzer
+## Academic Projects
+Stress Analyzer (Front-end)
 > https://github.com/SwiftwareTeam/swiftware_app
+
+Stress Analyzer (Back-end)
 > https://github.com/SwiftwareTeam/Swiftware-Server
 
 Design Patterns
+> https://github.com/cs100
+
 
 
 <!---

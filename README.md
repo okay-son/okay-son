@@ -1,5 +1,5 @@
 ## hello, this is okay.son :)
-my name is sonia (@okay-son) !
+my name is so yeon (sonia) lee (@okay-son) !
 
 here are some of the coding work i've done.
 > always making progress

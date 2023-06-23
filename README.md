@@ -24,6 +24,9 @@ Stress Analyzer (Back-end)
 Design Patterns
 > https://github.com/cs100
 
+Linear and Logistic Regression Models, Neural Network
+> https://github.com/cs100
+
 
 
 <!---

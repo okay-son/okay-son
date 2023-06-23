@@ -15,16 +15,19 @@ CookBook (web application)
 > https://github.com/okay-son/CookBook
 
 ## Academic Projects
-Stress Analyzer (Front-end)
+Chatroom (web application)
+> https://github.com/UCR-CS110-S23/project-colordit
+
+Stress Analyzer (iOS Front-end)
 > https://github.com/SwiftwareTeam/swiftware_app
 
-Stress Analyzer (Back-end)
+Stress Analyzer (iOS Back-end)
 > https://github.com/SwiftwareTeam/Swiftware-Server
 
-Design Patterns
+Design Patterns (C++)
 > https://github.com/cs100
 
-Linear and Logistic Regression Models, Neural Network
+Linear and Logistic Regression Models, Neural Network (Python)
 > https://github.com/okay-son/intro-ml
 
 

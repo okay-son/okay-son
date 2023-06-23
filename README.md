@@ -18,6 +18,9 @@ CookBook (web application)
 Chatroom (web application)
 > https://github.com/UCR-CS110-S23/project-colordit
 
+Linear and Logistic Regression Models, Neural Network (Python)
+> https://github.com/okay-son/intro-ml
+
 Stress Analyzer (iOS Front-end)
 > https://github.com/SwiftwareTeam/swiftware_app
 
@@ -27,8 +30,6 @@ Stress Analyzer (iOS Back-end)
 Design Patterns (C++)
 > https://github.com/cs100
 
-Linear and Logistic Regression Models, Neural Network (Python)
-> https://github.com/okay-son/intro-ml
 
 
 

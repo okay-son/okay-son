@@ -1,7 +1,7 @@
-## hello, this is okay.son :)
-my name is so yeon (sonia) lee (@okay-son) !
+## Hello, this is Sonia :)
+My name is So Yeon (Sonia) Lee (@okay-son)!
 
-here are some of the coding work i've done.
+Here are some of the coding projects I've done.
 > always making progress
 
 ## Personal Projects
